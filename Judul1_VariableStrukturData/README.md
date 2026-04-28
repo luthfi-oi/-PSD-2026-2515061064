@@ -27,5 +27,5 @@ Penjelasan :
 
 Terdapat pilihan 1-4 jika user menginputkan angka 1 maka akan ke menu 1 untuk menambahkan item. Jika user menginputkan angka 2 maka akan menampilkan daftar item belanja. Jika user menginputkan angka 3 maka program akan meminta user untuk menghapus satu item yang ada di daftar belanja. Jika user menginputkan angka 4 maka program akan selesai.
 
-Link YouTube : 
+Link YouTube : https://youtu.be/DTdSuKEShBw
 
