@@ -45,4 +45,5 @@ Output Program :
 
 <img width="714" height="312" alt="Screenshot 2026-05-03 201420" src="https://github.com/user-attachments/assets/008d60b1-b98e-4e5f-adeb-3f2db8813656" />
 
+
 Program akan meminta user memasukkan jumlah sepatu terlebih dahulu. Setelah itu user diminta memasukkan ukuran sepatu sesuai jumlah data. Program akan menampilkan array sebelum diurutkan, lalu mengurutkannya menggunakan Bubble Sort secara descending sehingga data ditampilkan dari nilai terbesar ke terkecil.
