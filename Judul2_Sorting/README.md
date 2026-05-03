@@ -5,7 +5,8 @@ program ini berfungsi untuk mengurutkan data ukuran sepatu yang dimasukkan oleh 
 Source Code :
 <img width="1356" height="1698" alt="code" src="https://github.com/user-attachments/assets/b55d3f41-33d4-49d0-869e-41e1fd3f05f0" />
 
-Penjelasannya : 
+Penjelasannya :
+
 Pada baris 1 terdapat fungsi tukar(arr, i, j) yang digunakan untuk menukar posisi dua elemen dalam array berdasarkan indeks i dan j.
 Pada baris 2 terdapat variabel temp yang menyimpan sementara nilai dari arr[i] agar nilainya tidak hilang saat proses pertukaran.
 Pada baris 3 nilai pada indeks i diisi dengan nilai dari indeks j, sehingga elemen pertama diganti dengan elemen kedua.
@@ -39,3 +40,9 @@ Pada baris 32 program mencetak setiap elemen array satu per satu dengan spasi me
 Pada baris 33 fungsi print() digunakan agar setelah semua data dicetak, kursor pindah ke baris baru.
 Pada baris 36 terdapat if __name__ == "__main__": yang merupakan standar Python agar fungsi main() hanya dijalankan jika file dieksekusi langsung.
 Pada baris 37 fungsi main() dipanggil untuk menjalankan keseluruhan program.
+
+Output Program : 
+
+<img width="714" height="312" alt="Screenshot 2026-05-03 201420" src="https://github.com/user-attachments/assets/008d60b1-b98e-4e5f-adeb-3f2db8813656" />
+
+Program akan meminta user memasukkan jumlah sepatu terlebih dahulu. Setelah itu user diminta memasukkan ukuran sepatu sesuai jumlah data. Program akan menampilkan array sebelum diurutkan, lalu mengurutkannya menggunakan Bubble Sort secara descending sehingga data ditampilkan dari nilai terbesar ke terkecil.
