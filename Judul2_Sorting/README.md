@@ -48,4 +48,4 @@ Output Program :
 
 Program akan meminta user memasukkan jumlah sepatu terlebih dahulu. Setelah itu user diminta memasukkan ukuran sepatu sesuai jumlah data. Program akan menampilkan array sebelum diurutkan, lalu mengurutkannya menggunakan Bubble Sort secara descending sehingga data ditampilkan dari nilai terbesar ke terkecil.
 
-LInk YouTube :
+LInk YouTube : https://youtu.be/mkgXSL3oT_Y
