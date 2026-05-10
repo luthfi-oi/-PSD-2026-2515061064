@@ -1,2 +1,4 @@
-Menemukan nomor kursi di tumpukan
+Menemukan Nomor Kursi di Tumpukan Menggunakan Sequential searching
+
+
 
