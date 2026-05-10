@@ -26,5 +26,7 @@ Pada baris kedua puluh satu terdapat fungsi break yang digunakan untuk menghenti
 Pada baris kedua puluh dua terdapat except ValueError: yang digunakan untuk menangkap error jika user memasukkan input selain angka.
 Pada baris kedua puluh tiga terdapat fungsi print yang digunakan untuk menampilkan pesan bahwa input tidak valid dan user harus memasukkan angka.
 Pada baris kedua puluh lima terdapat pemanggilan fungsi sequential_search(data, cari) yang digunakan untuk menjalankan proses pencarian data berdasarkan input user.
-Pada baris kedua puluh tujuh dan dua puluh delapan terdapat kode standar Python:
-Kode tersebut digunakan agar fungsi `main()` hanya dijalankan ketika file program dijalankan secara langsung, bukan ketika file diimpor ke program lain.
+Pada baris kedua puluh tujuh dan dua puluh delapan terdapat kode standar Python: Kode tersebut digunakan agar fungsi main() hanya dijalankan ketika file program dijalankan secara langsung, bukan ketika file diimpor ke program lain.
+
+Output Program :
+<img width="674" height="129" alt="Screenshot 2026-05-10 131303" src="https://github.com/user-attachments/assets/2a146498-3d53-479d-bc7f-c41d57cf6d12" />
