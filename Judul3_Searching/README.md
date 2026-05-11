@@ -36,6 +36,7 @@ Output program tersebut menunjukkan proses pencarian nomor kursi menggunakan met
 
 Link YouTube : https://youtu.be/toOra-ZkJVE?si=gIlhYYZk91CnJxh_
 
-<img width="1463" height="1133" alt="WhatsApp Image 2026-05-11 at 21 43 33" src="https://github.com/user-attachments/assets/d2ada785-ffe5-4cfc-935f-8858f59425ff" />
+<img width="1290" height="1192" alt="WhatsApp Image 2026-05-11 at 21 58 14" src="https://github.com/user-attachments/assets/eb1dc7f9-a90f-42d5-ac3b-42a890bccab9" />
+
 
 
