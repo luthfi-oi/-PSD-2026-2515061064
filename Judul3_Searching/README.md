@@ -29,4 +29,13 @@ Pada baris kedua puluh lima terdapat pemanggilan fungsi sequential_search(data, 
 Pada baris kedua puluh tujuh dan dua puluh delapan terdapat kode standar Python: Kode tersebut digunakan agar fungsi main() hanya dijalankan ketika file program dijalankan secara langsung, bukan ketika file diimpor ke program lain.
 
 Output Program :
+
 <img width="674" height="129" alt="Screenshot 2026-05-10 131303" src="https://github.com/user-attachments/assets/2a146498-3d53-479d-bc7f-c41d57cf6d12" />
+
+Output program tersebut menunjukkan proses pencarian nomor kursi menggunakan metode Sequential Search atau pencarian berurutan. Pertama, program menampilkan data nomor kursi yang tersimpan dalam array yaitu [10, 8, 3, 9, 7, 4, 6, 2, 5, 1]. Setelah itu, pengguna memasukkan angka 3 sebagai nomor kursi yang ingin dicari. Program kemudian mulai memeriksa data satu per satu dari posisi pertama dengan menampilkan tulisan “Memeriksa kursi ke-1”, lalu dilanjutkan ke kursi ke-2 karena angka yang dicari belum ditemukan. Saat program memeriksa kursi ke-3, ditemukan bahwa nilai pada posisi tersebut adalah angka 3, sehingga proses pencarian dihentikan. Terakhir, program menampilkan pesan bahwa nomor kursi angka 3 ditemukan pada tumpukan atau posisi ke-3.
+
+Link YouTube : https://youtu.be/toOra-ZkJVE?si=gIlhYYZk91CnJxh_
+
+<img width="1463" height="1133" alt="WhatsApp Image 2026-05-11 at 21 43 33" src="https://github.com/user-attachments/assets/d2ada785-ffe5-4cfc-935f-8858f59425ff" />
+
+
