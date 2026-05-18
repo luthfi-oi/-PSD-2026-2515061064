@@ -22,3 +22,8 @@ Pada baris kelima puluh sembilan sampai enam puluh empat program menampilkan men
 Pada baris tujuh puluh terdapat kondisi jika user memilih angka 1, maka pada baris tujuh puluh satu sampai tujuh puluh lima user diminta memasukkan nomor antrian dan akan ditambahkan ke queue menggunakan fungsi enqueue. Pada baris tujuh puluh enam terdapat kondisi jika user memilih angka 2 maka fungsi dequeue akan dijalankan. Pada baris tujuh puluh delapan jika user memilih angka 3 maka fungsi peek dijalankan untuk melihat antrian terdepan. Pada baris delapan puluh jika user memilih angka 4 maka fungsi display akan menampilkan seluruh isi queue. Pada baris delapan puluh dua jika user memilih angka 5 maka program akan menampilkan pesan selesai. Pada baris delapan puluh empat terdapat kondisi else jika input tidak sesuai pilihan maka akan menampilkan pesan "Pilihan tidak valid".
 Pada baris delapan puluh delapan dan delapan puluh sembilan terdapat kondisi if __name__ == "__main__" yang merupakan standar Python untuk menjalankan fungsi main() hanya ketika file dijalankan secara langsung.
 
+Outputnya :
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 192509" src="https://github.com/user-attachments/assets/511f03b4-9a74-4452-9cb6-868b86224236" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 192523" src="https://github.com/user-attachments/assets/a2b383f5-5f8e-4739-b86e-ae67a07fa5f5" />
+
