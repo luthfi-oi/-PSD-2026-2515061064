@@ -27,3 +27,10 @@ Outputnya :
 <img width="1920" height="1080" alt="Screenshot 2026-05-18 192509" src="https://github.com/user-attachments/assets/511f03b4-9a74-4452-9cb6-868b86224236" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-18 192523" src="https://github.com/user-attachments/assets/a2b383f5-5f8e-4739-b86e-ae67a07fa5f5" />
 
+Penjelasan Output:
+Berikut penjelasan output program tersebut dalam **bentuk paragraf**:
+
+Output yang ditampilkan pada layar merupakan hasil dari sebuah program Python yang mensimulasikan proses antrian pengambilan obat menggunakan struktur data queue. Program ini menyediakan beberapa menu, seperti menambahkan antrian, menghapus antrian, melihat antrian terdepan, menampilkan seluruh antrian, serta keluar dari program. Pada awal eksekusi, pengguna memilih opsi Tambah Antrian sebanyak tiga kali, sehingga nomor antrian 1, 2, dan 3 masuk ke dalam queue secara berurutan. Setelah itu, pengguna memilih menu Hapus Antrian, sehingga antrian pertama yaitu nomor 1 dikeluarkan dari daftar antrian. Ketika pengguna memilih menu Lihat Antrian Terdepan, program menampilkan nomor 2 sebagai antrian paling depan karena 1 sudah terhapus. Selanjutnya, saat pengguna memilih menu Tampilkan Semua Antrian, program menampilkan isi antrian yang tersisa, yaitu 2 dan 3, sesuai urutan dari depan ke belakang. Terakhir, ketika pengguna memilih opsi Keluar, program mengakhiri proses dan menampilkan pesan bahwa program telah selesai. Dengan demikian, urutan operasi menunjukkan bahwa program bekerja sesuai prinsip dasar queue yaitu FIFO (First In, First Out).
+
+
+Link YouTube :
