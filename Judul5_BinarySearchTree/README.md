@@ -30,6 +30,7 @@ puluh enam, program mencetak judul “Struktur Organisasi Mahasiswa”. Pada bar
 struktur organisasi secara bertingkat 
 
 Outputnya: 
+
 <img width="875" height="262" alt="Screenshot 2026-05-25 205903" src="https://github.com/user-attachments/assets/2861f943-70a0-4789-aa4d-fc2ea8da5bdd" />
 
 Penjelasannya:
