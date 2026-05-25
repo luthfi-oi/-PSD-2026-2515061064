@@ -36,6 +36,6 @@ Outputnya:
 Penjelasannya:
 Output program tersebut menampilkan struktur organisasi mahasiswa dalam bentuk hierarki yang dimulai dari Andi sebagai Ketua di posisi paling atas. Di bawahnya terdapat Budi sebagai Wakil Ketua, kemudian di bawah Budi ada Siti sebagai Sekretaris dan Rina sebagai Bendahara. Selanjutnya, Rina memiliki bawahan yaitu Doni, Beni, dan Rudi yang masing-masing menjabat sebagai Koordinator Divisi. Tampilan yang menjorok ke dalam menunjukkan tingkat jabatan, sehingga semakin ke dalam berarti posisi anggota tersebut semakin rendah dalam struktur organisasi.
 
-Link YouTube: 
+Link YouTube: https://youtu.be/FbMZ3AHrTLY
 
 
