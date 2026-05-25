@@ -2,6 +2,7 @@ Membuat Struktur Organisasi Mahasiswa Menggunakan Binary Search Tree
 
 Kode ini berfungsi untuk membuat sistem sederhana yang dapat merepresentasikan struktur organisasi mahasiswa secara terstruktur dan bertingkat. Program ini menggunakan konsep pemrograman berorientasi objek untuk menyimpan data setiap anggota organisasi beserta jabatannya, serta menghubungkan anggota sebagai atasan dan bawahan. Selain itu, kode ini juga mampu menampilkan susunan organisasi dalam bentuk hierarki seperti pohon, dimulai dari ketua hingga anggota di bawahnya, sehingga memudahkan pengguna dalam memahami hubungan dan posisi setiap anggota dalam organisasi.
 
+Source Code:
 <img width="1326" height="2078" alt="code ta 5" src="https://github.com/user-attachments/assets/05b764a7-4ea4-4c58-a89d-53f44e37cc58" />
 
 Penjelasannya:
