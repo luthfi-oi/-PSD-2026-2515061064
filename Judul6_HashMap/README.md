@@ -55,3 +55,9 @@ Pada baris 126 terdapat percabangan `else` yang akan dijalankan apabila pengguna
 Pada baris 130 terdapat kode `if __name__ == "__main__":` yang digunakan untuk memastikan bahwa fungsi `main()` hanya akan dijalankan ketika file dieksekusi secara langsung.
 
 Pada baris 131 terdapat pemanggilan fungsi `main()` yang digunakan untuk menjalankan seluruh program sehingga menu daftar harga ikan dan ayam dapat digunakan oleh pengguna.
+
+Outputnya:
+<img width="1391" height="915" alt="Screenshot 2026-06-08 095052" src="https://github.com/user-attachments/assets/cb139ae7-7593-4b61-bdaa-27d94dcc950c" />
+
+
+
