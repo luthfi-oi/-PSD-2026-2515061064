@@ -6,9 +6,7 @@ Source Code:
 
 <img width="1278" height="5270" alt="code" src="https://github.com/user-attachments/assets/3b61c959-41b2-4f07-b4a4-a3ea948d5758" />
 
-Berikut penjelasan kode pada gambar sesuai gaya penjelasan tugas yang biasa Anda gunakan.
-
-### Penjelasannya:
+Penjelasannya:
 
 Pada baris 1 terdapat kelas `SlotState` yang digunakan untuk menentukan status dari setiap slot pada hash table. Pada baris 2 terdapat konstanta `EMPTY = 0` yang menandakan slot masih kosong. Pada baris 3 terdapat konstanta `OCCUPIED = 1` yang menandakan slot telah terisi data. Pada baris 4 terdapat konstanta `DELETED = 2` yang menandakan data pada slot telah dihapus.
 
@@ -59,5 +57,7 @@ Pada baris 131 terdapat pemanggilan fungsi `main()` yang digunakan untuk menjala
 Outputnya:
 <img width="1391" height="915" alt="Screenshot 2026-06-08 095052" src="https://github.com/user-attachments/assets/cb139ae7-7593-4b61-bdaa-27d94dcc950c" />
 
+Penjelasannya: 
 
+Pada tampilan awal, program menampilkan menu utama yang berisi empat pilihan, yaitu Lihat Harga Ikan, Lihat Harga Ayam, Lihat Semua, dan Keluar. Pengguna kemudian diminta memasukkan pilihan dengan angka 1 sampai 4. Pada percobaan pertama, pengguna memasukkan angka 1. Karena memilih menu Lihat Harga Ikan, program menampilkan seluruh data ikan yang telah disimpan pada Hash Map. Data yang ditampilkan terdiri dari kode ikan, nama ikan, dan harga per kilogram. Data yang muncul yaitu Lele dengan harga Rp25.000/kg, Nila dengan harga Rp30.000/kg, Patin dengan harga Rp28.000/kg, dan Gurame dengan harga Rp45.000/kg. Setelah seluruh data ikan ditampilkan, program tidak langsung berhenti karena menggunakan perulangan while True. Oleh karena itu, menu utama ditampilkan kembali sehingga pengguna dapat memilih menu lainnya. Pada percobaan kedua, pengguna memasukkan angka 2. Karena memilih menu Lihat Harga Ayam, program menampilkan seluruh data ayam yang tersimpan pada Hash Map. Data yang ditampilkan meliputi Ayam Broiler dengan harga Rp38.000/kg, Ayam Kampung dengan harga Rp65.000/kg, dan Ayam Pejantan dengan harga Rp50.000/kg. Setelah data ayam ditampilkan, program kembali menampilkan menu utama. Hal ini menunjukkan bahwa perulangan masih berjalan dan program masih menunggu pilihan berikutnya dari pengguna. Pada percobaan terakhir, pengguna memasukkan angka 4. Pilihan ini mengaktifkan percabangan Keluar sehingga program menampilkan pesan "Terima kasih telah menggunakan program.". Setelah itu, perintah break dijalankan untuk menghentikan perulangan while True, sehingga program selesai dan kembali ke terminal.
 
