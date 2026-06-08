@@ -8,7 +8,7 @@ Source Code:
 
 Penjelasannya:
 
-Pada baris 1 terdapat kelas `SlotState` yang digunakan untuk menentukan status dari setiap slot pada hash table. Pada baris 2 terdapat konstanta `EMPTY = 0` yang menandakan slot masih kosong. Pada baris 3 terdapat konstanta `OCCUPIED = 1` yang menandakan slot telah terisi data. Pada baris 4 terdapat konstanta `DELETED = 2` yang menandakan data pada slot telah dihapus.
+Pada baris 1 terdapat kelas `SlotState` yang digunakan untuk menentukan status dari setiap slot pada hash table. Pada baris 2 terdapat Variable `EMPTY = 0` yang menandakan slot masih kosong. Pada baris 3 terdapat variable `OCCUPIED = 1` yang menandakan slot telah terisi data. Pada baris 4 terdapat variabel `DELETED = 2` yang menandakan data pada slot telah dihapus.
 
 Pada baris 7 terdapat kelas `Entry` yang digunakan sebagai tempat penyimpanan data pada setiap slot hash table. Pada baris 8 terdapat fungsi konstruktor `__init__()` yang akan dijalankan secara otomatis saat objek dibuat. Pada baris 9 terdapat atribut `key` yang diinisialisasi dengan nilai `None`. Pada baris 10 terdapat atribut `value` yang juga diinisialisasi dengan nilai `None`. Pada baris 11 terdapat atribut `state` yang diisi dengan status `EMPTY`.
 
